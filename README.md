@@ -1,6 +1,6 @@
-# Pytorch implementation of Bidirectional One-Shot Unsupervised Domain Mapping.
+# Pytorch implementation of Bidirectional One-Shot Unsupervised Domain Mapping (ICCV 2019).
 
-## Run Training
+## Training
 
 ### Download Dataset
 To download dataset : bash datasets/download_cyclegan_dataset.sh $DATASET_NAME where DATASET_NAME is one of (monet2photo, summer2winter_yosemite)
