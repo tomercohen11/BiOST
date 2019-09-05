@@ -1,4 +1,4 @@
-# Pytorch implementation of [Bidirectional One-Shot Unsupervised Domain Mapping (ICCV 2019)](https://arxiv.org/pdf/1703.10593.pdf)
+# Pytorch implementation of [Bidirectional One-Shot Unsupervised Domain Mapping (ICCV 2019)](https://arxiv.org/abs/1909.01595)
 
 ## Training
 
